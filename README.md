@@ -25,7 +25,7 @@ Built as part of a Vega blockchain course for MSU.
 ## About decimals
 
 ERC-20 tokens don't support fractions on-chain: all balances are stored as
-integers in the smallest unit. With 18 decimals (the same as ETH):
+integers in the smallest unit(with 18 decimals):
 
 ```
 1 DTK      = 1,000,000,000,000,000,000 base units (10¹⁸)
