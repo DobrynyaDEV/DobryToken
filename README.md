@@ -1,6 +1,6 @@
 # DobryToken (DTK)
 
-A simple ERC-20 token deployed on the **Ethereum Sepolia** testnet.
+ERC-20 token deployed on the **Ethereum Sepolia** testnet.
 Built as part of a Vega blockchain course for MSU.
 
 ## Token details
@@ -18,8 +18,8 @@ Built as part of a Vega blockchain course for MSU.
 
 | Item                  | Link |
 |-----------------------|------|
-| Contract address      | [`<CONTRACT_ADDRESS>`](https://sepolia.etherscan.io/address/0x04B45A4DcFF7B625E88Dd38CE7ceBcb5C1963350<CONTRACT_ADDRESS>) |
-| Deployment tx         | [`<DEPLOY_TX_HASH>`](https://sepolia.etherscan.io/tx/0xb6606fe8a674db38b9b38e4beb6492d280f6f6ec8e546aca2307539aabfa5f91<DEPLOY_TX_HASH>) |
+| Contract address      | [`<CONTRACT_ADDRESS>`](https://sepolia.etherscan.io/address/0x04B45A4DcFF7B625E88Dd38CE7ceBcb5C1963350/<CONTRACT_ADDRESS>) |
+| Deployment tx         | [`<DEPLOY_TX_HASH>`](https://sepolia.etherscan.io/tx/0xb6606fe8a674db38b9b38e4beb6492d280f6f6ec8e546aca2307539aabfa5f91/<DEPLOY_TX_HASH>) |
 
 ## About decimals
 
