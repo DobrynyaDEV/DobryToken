@@ -34,7 +34,7 @@ integers in the smallest unit(with 18 decimals):
 
 ## Contract
 
-The token is implemented in [`DobryToken.sol`](./DobryToken/contracts/DobryToken.sol) and is based on
+The token is implemented in [`DobryToken.sol`](https://github.com/DobrynyaDEV/DobryToken/blob/main/DobryToken/contracts/DobryToken.sol) and is based on
 the [OpenZeppelin ERC-20](https://docs.openzeppelin.com/contracts/erc20)
 implementation (MIT licensed).
 
